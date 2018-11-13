@@ -1,2 +1,2 @@
 # Mutenroshi_Escape
-Pequeño juego/demo realizado en C# utilizando Tao.SDL
+Small demo game made in C# using Tao.SDL
